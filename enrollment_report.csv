@@ -1,9 +1,13 @@
 Enrollment Id,Company Name,Android APIs,Chrome APIs,SDK Names,Site
 HPFWR,2K Games,Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://2k.com
 B5WWG,33Across,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://33across.com
+VVXET,3rd Space App Inc,,Topics ,,https://get3rdspace.com
+5FUNX,5FUNX,,Attribution-Reporting Protected-Audience Topics ,,https://greensandbox.fr
+8HDBF,8HDBF,,Topics ,,https://halcy.de
 YWEHT,AWIN AG,,Attribution-Reporting ,,https://wepowerconnections.com
 V84E9,Accertify Inc,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://cdn-net.com
 M4ZZG,Acxiom,,Attribution-Reporting Protected-Audience Shared-Storage Topics ,,https://acxiom.com
+WMMQG,Ad Shield,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://html-load.com
 U3DCP,AdTheorent Inc.,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://adentifi.com
 RCW2F,Adform,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://adform.net
 XG7AT,Adikteev,Attribution-Reporting Protected-Audience ,,,https://adikteev.com
@@ -14,17 +18,20 @@ EMFBR,Adobe Inc.,,Attribution-Reporting Private-Aggregation Protected-Audience S
 K5HGK,Adswizz Inc.,Protected-Audience Topics ,Private-Aggregation Protected-Audience Shared-Storage Topics ,com.adswizz.sdk,https://adswizz.com
 6NECT,AffinityAnswers,Attribution-Reporting Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://affinityanswers.com
 ZAXTN,AlgoriX Technology Pte. Ltd.,Protected-Audience Topics ,Private-Aggregation Protected-Audience Shared-Storage Topics ,com.alxad,https://open-bid.com
-V28N2,Amazon,,Protected-Audience ,,https://amazon-adsystem.com
-XRXG9,Amazon,,Attribution-Reporting Private-Aggregation Shared-Storage ,,https://paa-reporting-advertising.amazon
+HXCXM,Alke Tech,,Shared-Storage Topics ,,https://alketech.eu
+V28N2,Amazon Ads,,Protected-Audience ,,https://amazon-adsystem.com
+XRXG9,Amazon Ads,,Attribution-Reporting Private-Aggregation Shared-Storage ,,https://paa-reporting-advertising.amazon
 MY67Q,Anonymised,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://anonymised.io
 J4KNU,Ansira Partners,Protected-Audience ,Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://admission.net
-ZNWX8,AntVoice,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://avads.net
+ZNWX8,Antvoice,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://avads.net
 3VT6H,AppLovin,Attribution-Reporting Protected-Audience Topics ,,com.applovin.sdk,https://applovin.com
 59AGN,Appier Inc,Attribution-Reporting Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://appier.net
 8XPN2,Appnext PTE,Attribution-Reporting Protected-Audience Topics ,,com.appnext.sdk,https://appnext.com
 4MYKT,AppsFlyer,Attribution-Reporting Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage ,,https://appsflyer.com
+YNC73,AppsFlyer,Attribution-Reporting Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage ,,https://appsflyersdk.com
 VVG5D,Aqfer Inc.,,Attribution-Reporting Private-Aggregation Topics ,,https://aqfer.com
 UTKBT,AristUnited (Wider Planet),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://artistunited.com
+W8D9P,AsiaPac Net Media Limited,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://aphub.ai
 79QP3,Atirun Techs Pvt. Ltd.,,Topics ,,https://atirun.com
 7AWA5,AudienceProject,,Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://audienceproject.com
 FBP3P,Audigent,Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://ad.gt
@@ -32,13 +39,15 @@ FBP3P,Audigent,Protected-Audience ,Attribution-Reporting Private-Aggregation Pro
 PCQKH,Azerion Technology B.V.,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://360yield.com
 R9EAN,Basis.com,,Attribution-Reporting ,,https://sitescout.com
 T6QZJ,BidTheatre,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://bidtheatre.net
+DY9UJ,Bidswitch,Attribution-Reporting Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://bidswitch.net
+VP9PQ,Bidtellect LLC,,Protected-Audience ,,https://bidtellect.com
 ZX8UV,Blendee (formerly Neodata),Protected-Audience Topics ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,com.neodatagroup.sdk.exaudi,https://blendee.com
 ZX5NP,Blockthrough,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://btloader.com
 WJXKE,Blue Media Services,Protected-Audience ,Protected-Audience ,,https://bluems.com
 VRJ4V,BlueCoat Consulting LLC,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://fob1020.com
 FE8WW,Border Blue Inc.,,Topics ,,https://convertunits.com
 4Q4WH,Branch Metrics Inc.,Attribution-Reporting ,,,https://branch.io
-3CMUR,Bytedance Pte. Ltd,Attribution-Reporting Protected-Audience Topics ,,com.bytedance,https://sgsnssdk.com
+3CMUR,Bytedance Pte. Ltd,Attribution-Reporting Protected-Audience Topics ,,com.bytedance,https://panglepublisher.com
 U4RGB,CARSALES.COM LIMITED,,Protected-Audience ,,https://audience360.com.au
 ZN6A4,CRAID inc.,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://admatrix.jp
 RHZ6B,Captify Technologies Ltd,,Attribution-Reporting Private-Aggregation Protected-Audience Topics ,,https://cpx.to
@@ -49,7 +58,7 @@ G9X8G,Connatix Holdings Inc.,Topics ,Topics ,com.cnx.connatixplayersdk.external,
 JDM8V,Coolblue,Protected-Audience ,Protected-Audience ,,https://coolblue.nl
 NNVVX,Coupang,,Protected-Audience Topics ,,https://coupang.com
 GCUDR,Crimtan Holding Ltd,Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://ctnsnet.com
-TVFPR,Criteo,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://criteo.com
+TVFPR,Criteo,Attribution-Reporting ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://criteo.com
 289PD,CyberAgent Inc.,Attribution-Reporting Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://dynalyst.jp
 H9BKB,D EDGE SAS,,Attribution-Reporting ,,https://d-edgeconnect.media
 V9BD4,D.A.Consortium Inc.,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://impact-ad.jp
@@ -60,7 +69,8 @@ M5DW9,Dataseat Ltd,Attribution-Reporting Protected-Audience ,,,https://dataseat.
 XKHNY,Deepintent Inc.,,Protected-Audience Topics ,,https://deepintent.com
 VNJQ4,Digital Turbine,Topics ,,com.fyber.inneractive.sdk,https://digitalturbine.com
 28CUQ,Display.io,Attribution-Reporting Protected-Audience Topics ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,com.brandio.ads,https://display.io
-UKB3K,DotDash Meredith,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://dotdashmeredith.com
+UKB3K,Dotdash Meredith,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://dotdashmeredith.com
+J7MTV,DoubleVerify Holdings Inc.,,Protected-Audience ,,https://doubleverify.com
 5RUDT,Dstillery,,Attribution-Reporting Private-Aggregation Topics ,,https://media6degrees.com
 8GNYH,E MARKETINGSOLUTIONS ONLINE MARKETING SL.,Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://uinterbox.com
 NX44Q,EDAA (European Interactive Digital Advertising Alliance),,Shared-Storage ,,https://youronlinechoices.eu
@@ -69,6 +79,8 @@ NZ42Y,EMBRACE Systems GmbH,,Attribution-Reporting Protected-Audience Topics ,,ht
 3CZMB,Emego GmbH (usemax),,Attribution-Reporting ,,https://usemax.de
 NDZTB,Epsilon Data Management LLC,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://dotomi.com
 JAZF9,Equativ,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://sascdn.com
+98FYE,Eulerian Technologies,Attribution-Reporting Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience ,,https://euleriancdn.net
+2RMFD,Euvic 360e com Sp. z o.o.,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://clickonometrics.pl
 3M9NV,Exponential Interactive Inc d/b/a VDX.tv,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://tribalfusion.com
 JVC54,Ezoic Inc,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://ezoic.com
 WMWCH,FAN Communications Inc.,Topics ,,net.nend.android,
@@ -76,34 +88,50 @@ WMWCH,FAN Communications Inc.,Topics ,,net.nend.android,
 5R9NV,Fandom Inc.,,Protected-Audience Topics ,,https://fandom.com
 66GYX,Feathr,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://feathr.co
 VTNM7,FreakOut inc.,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://fout.jp
+3Y2Y3,FreeWheel Media,Attribution-Reporting Protected-App-Signals Protected-Audience Topics ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,tv.freewheel.ad,https://fwmrm.net
 5HXYX,Freestar,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://pub.network
 KJHP2,Freestar,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://t13.io
+ZKT8Z,FunPlus International AG,Attribution-Reporting Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://funplus.com
 UJ4KK,GMO AD MARKETING Inc,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://gmossp-sp.jp
 HX396,GOKWIK COMMERCE SOLUTIONS PRIVATE LIMITED,,Private-Aggregation Protected-Audience Shared-Storage ,,https://gokwik.co
+K6GDD,GRUP LES NOTICIES DE CATALUNYA SLU,,Topics ,,https://elnacional.cat
 2R5T2,Gamefort,,Shared-Storage Topics ,,https://torneos.gg
 3KEGT,Geniee Inc,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://gsspat.jp
 JN58Z,Getyourguide Inc.,,Shared-Storage ,,https://getyourguide.com
 ZAGU6,Globo,,Attribution-Reporting Protected-Audience Topics ,,https://globo.com
-9VKC2,Globo Comunicacao e Participacoes SA (Globo),Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://gama.globo
+9VKC2,Globo Ads,Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://gama.globo
+YDB4F,Google LLC (Doubleclick   AdSpam),,Shared-Storage ,,https://adtrafficquality.google
 HJ9V7,Google LLC (PS APIs Monitoring),Attribution-Reporting ,Attribution-Reporting ,,https://ptb-msmt-static-5jyy5ulagq-uc.a.run.app
 HJMAH,Google LLC (PS APIs Monitoring),Attribution-Reporting Protected-Audience ,,,https://ptb-ba-seller-5jyy5ulagq-uc.a.run.app
-Z5T3R,Google LLC (PS APIs Monitoring),Attribution-Reporting Protected-Audience ,,,https://ptb-ba-buyer-5jyy5ulagq-uc.a.run.app
+Z5T3R,Google LLC (PS APIs Monitoring),Attribution-Reporting Protected-App-Signals Protected-Audience ,,,https://ptb-ba-buyer-5jyy5ulagq-uc.a.run.app
 ptb,Google LLC (PS APIs Monitoring),Protected-Audience Topics ,,com.google.android.libraries.internal.sampleads,https://ptb-fledge-static-5jyy5ulagq-uc.a.run.app
 3QN67,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandcastle-dev-ssp-a.web.app
+5JZNN,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandcastle-dev-dsp-y.web.app
 5W6R6,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandbox-demos-dsp-a.dev
 66DAC,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandcastle-dev-dsp-b1.web.app
+7G73H,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandbox-demos-dsp-y.dev
 8MV3J,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandcastle-dev-ad-server.web.app
+B7WD5,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandbox-demos-dsp-x.dev
+BZBN7,Google LLC (Privacy Sandbox Demos),,Private-Aggregation Shared-Storage ,,https://shared-storage-demo-publisher-a.web.app
 EQPDM,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandbox-demos-ssp.dev
 FFH4Y,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandcastle-dev-dsp-a1.web.app
+G7ZNZ,Google LLC (Privacy Sandbox Demos),,Private-Aggregation Shared-Storage ,,https://shared-storage-demo-publisher-b.web.app
 HBTNJ,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandbox-demos-dsp-b.dev
 JZCDE,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandbox-demos-ssp-a.dev
+NHT7X,Google LLC (Privacy Sandbox Demos),,Private-Aggregation Shared-Storage ,,https://shared-storage-demo-content-producer.web.app
+Q8F5E,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandbox-demos-ssp-x.dev
+QNNBD,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandcastle-dev-dsp-x.web.app
 T2R4J,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandbox-demos-ad-server.dev
 UNRJE,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandbox-demos-dsp.dev
+UWDJM,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandbox-demos-ssp-y.dev
+V2FK9,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandcastle-dev-ssp-x.web.app
 VQH96,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandbox-demos-ssp-b.dev
 VV8GR,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandcastle-dev-ssp.web.app
 XEV44,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandcastle-dev-ssp-b.web.app
 Z7XX7,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandcastle-dev-dsp.web.app
+Z9VZ8,Google LLC (Privacy Sandbox Demos),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandcastle-dev-ssp-y.web.app
 WEWGV,Google LLC (doubleclick.net),Attribution-Reporting Protected-Audience Topics ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,com.google.ads.interactivemedia.v3 com.google.android.gms:play-services-ads com.google.android.gms:play-services-ads-lite com.google.android.gms:play-services-afs-native com.google.android.gms:play-services-pal,https://doubleclick.net
+3DDTG,Google LLC (gPay),,Private-Aggregation Shared-Storage ,,https://payment.goog
 PYVXD,Google LLC (google analytics.com),Attribution-Reporting Protected-Audience Topics ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,com.google.firebase:firebase-analytics,https://google-analytics.com
 WQU8J,Google LLC (googleadservices.com),Attribution-Reporting Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage ,,https://googleadservices.com
 FC4CH,Google LLC (googlesyndication.com),,Private-Aggregation Shared-Storage ,,https://googlesyndication.com
@@ -111,6 +139,8 @@ QABCQ,Groundhog Technologies,,Attribution-Reporting Private-Aggregation Protecte
 37E57,GumGum,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://gumgum.com
 423T5,Gunosy Inc.,Attribution-Reporting Protected-Audience ,Attribution-Reporting Protected-Audience Shared-Storage Topics ,,https://gunosy.com
 HGY6Q,HGY6Q,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://mediacategory.com
+4CNPV,Health Products For You,,Shared-Storage ,,https://healthproductsforyou.com
+XRTER,Hearst Communications Inc. (elle.com),,Protected-Audience Topics ,,https://elle.com
 T2HZ9,Human Security,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://crcldu.com
 8NF44,HyperTv srl,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://connected-stories.com
 M9G8A,HyprMX,Attribution-Reporting Protected-Audience Topics ,,com.hyprmx.android:HyprMX-SDK,https://hyprmx.com
@@ -119,21 +149,26 @@ B4HFV,InMobi,Attribution-Reporting Protected-Audience Topics ,Attribution-Report
 9HW4Q,Index Exchange,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://casalemedia.com
 FDAZH,Index Exchange,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://indexww.com
 4BCNB,Infillion,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://mediamath.com
+PMTNN,Inge Reck Digital Marketing,,Attribution-Reporting Private-Aggregation Shared-Storage ,,https://ingereck.net
 2PG59,Innovid Corp,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://innovid.com
 YD9F5,Integral Ad Science,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://adsafeprotected.com
 4FADR,Intimate Merger Inc.,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://im-apps.net
 ZQ9R9,IronSource Ltd.,Attribution-Reporting Protected-Audience Topics ,,com.ironsource.sdk,https://ironsrc.mobi
 JM6ED,JM6ED,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://dabbs.net
+JFJ9D,JUDr. DAVID PYTELAMBA LL.M. advokat,,Attribution-Reporting Protected-Audience Topics ,,https://akpytela.cz
 NWNZQ,Jampp,Attribution-Reporting ,,,https://jampp.net
 EX9NH,Jivox,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://jivox.com
 2PP3A,Jixie Pte Ltd,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://jixie.io
 NWR3W,KELKOO.COM (UK) LIMITED,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://kelkoogroup.net
+KGW8M,KGW8M,,Topics ,,https://vlw.se
 349BU,Kakao Corp,Attribution-Reporting Protected-Audience Topics ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,com.kakao.adfit.ads,https://daum.net
 BEUDY,Kargo,,Attribution-Reporting Protected-Audience Shared-Storage Topics ,,https://kargo.com
 G4VE2,Kidoz Inc.,Attribution-Reporting Protected-Audience Topics ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,net.kidoz.sdk,https://kidoz.net
+PHEFM,Kleene.ai,,Attribution-Reporting Protected-Audience Topics ,,https://kleene.ai
 T37MG,Knorex Inc,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://brand-display.com
 C5E3F,Kochava,Attribution-Reporting Protected-Audience ,Attribution-Reporting Protected-Audience Topics ,,https://adsmeasurement.com
-5BT47,LOGLY Inc.,,Attribution-Reporting Topics ,,https://logly.co.jp
+GJX6J,Kompas Publishing BV,,Topics ,,https://kompaspublishing.nl
+5BT47,LOGLY Inc.,,Attribution-Reporting Protected-Audience Topics ,,https://logly.co.jp
 PKQCQ,LTIMindtree,,Attribution-Reporting Protected-Audience Topics ,,https://marutishanbhag.com
 KC23F,Lei Chi Technology Co. Ltd.,,Attribution-Reporting Private-Aggregation Shared-Storage ,,https://jkforum.net
 FWD4N,LineYahoo (formerly Yahoo Japan Corporation),Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://yahoo.co.jp
@@ -144,15 +179,16 @@ KPJM7,MOSHIMO CO. LTD.,,Attribution-Reporting ,,https://moshimo.com
 NYXGD,Magnite,,Protected-Audience Topics ,,https://rubiconproject.com
 3T339,Mass Luminosity Inc.,,Attribution-Reporting Protected-Audience Topics ,,https://beaconmax.com
 BCYEB,Media.Net Advertising FZ LLC,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://media.net
-9RN9C,Mediaocean,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://flashtalking.com
+9RN9C,MediaOcean,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://flashtalking.com
 PQEEE,Mediavine,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://mediavine.com
 ZJVA2,Merkle Italia SRL,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://aggregation-service-site-dot-clz200258-datateam-italy.ew.r.appspot.com
-AE8AA,Meta,Attribution-Reporting ,Attribution-Reporting ,,https://facebook.com
+AE8AA,Meta,Attribution-Reporting Protected-App-Signals Protected-Audience Topics ,Attribution-Reporting Protected-Audience Topics ,com.facebook.katana,https://facebook.com
 7ACAW,MiQ Digital LTD,Attribution-Reporting Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://edkt.io
 7JXQV,MicroAd Inc.,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://microad.jp
 6YHVH,Microsoft Corporation (adnxs.com),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://adnxs.com
 9HYBP,Microsoft Corporation (bing.com),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://bing.com
 5HMYF,Microsoft Corporation (xandr.com),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://xandr.com
+HPVUB,Mintegral,Attribution-Reporting Protected-Audience Topics ,,com.mbridge.msdk,https://mintegral.com
 CZ3BG,MobileFuse,Protected-Audience Topics ,,com.mobilefuse.sdk,https://mobilefuse.com
 FUA8P,Momento Inc.,Protected-Audience Topics ,Private-Aggregation Protected-Audience Shared-Storage Topics ,com.momento.ads,https://momento.dev
 MB7XE,Monet Engine Inc. DBA AdaptMX,,Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://a-mo.net
@@ -163,11 +199,13 @@ B97MF,NTT DOCOMO INC.,,Attribution-Reporting Protected-Audience Topics ,,https:/
 VX5YX,Nativo,Attribution-Reporting Protected-Audience Topics ,Attribution-Reporting Protected-Audience Topics ,net.nativo.sdk,https://postrelease.com
 UEQVY,NewsTV Inc.,,Attribution-Reporting Topics ,,https://primecaster.net
 2FMQP,Newscorp,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://nypost.com
-NQQWZ,Nextroll,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage ,,https://adroll.com
+NQQWZ,NextRoll,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage ,,https://adroll.com
 CR98Z,Nexxen,,Protected-Audience Topics ,,https://nexxen.tech
 6X8E2,Nexxen Inc,,Protected-Audience Topics ,,https://unrulymedia.com
 XME5U,Nielsen,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://imrworldwide.com
 ZYGVN,Ninja Tools Inc.,,Protected-Audience ,,https://shinobi.jp
+B9ZYR,Nodals AI LTD,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://nodals.io
+KX2FB,O.P Vision LTD dba Persona.ly,Attribution-Reporting Protected-App-Signals Protected-Audience ,,,https://personaly.bid
 779BZ,OGGEH Inc,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://oggeh.com
 N3HKH,Ogury,Topics ,Private-Aggregation Shared-Storage Topics ,com.ogury.sdk,https://presage.io
 AVUPV,OneAD Inc.,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://guoshipartners.com
@@ -176,8 +214,13 @@ EQA4Z,OpenX Technologies Inc,,Attribution-Reporting Private-Aggregation Protecte
 42Y3Q,Opera Software Ireland Ltd.,,Topics ,,https://apex-football.com
 6B2TB,Optable Technologies Inc,Attribution-Reporting Protected-Audience Topics ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,co.optable.android_sdk,https://optable.co
 92TPZ,Outbrain Inc.,Protected-Audience Topics ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,com.outbrain.mobile:obsdk,https://outbrain.com
+QHXCE,Outright Mental Inc,Attribution-Reporting ,Attribution-Reporting ,,https://outrightmental.com
+B8NRU,Ozone Project,,Attribution-Reporting Topics ,,https://azubiyo.de
 J6MJJ,Ozone Project,Protected-Audience ,Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://thesun.co.uk
 VGVDD,PM Dragonfly,,Attribution-Reporting Topics ,,https://pmdragonfly.com
+EPNNE,Paapi,Attribution-Reporting Protected-App-Signals Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage ,,https://explorefledge.com
+WZBRW,Paapi Limited,Attribution-Reporting Protected-App-Signals Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage ,,https://paapi.ai
+W3N6T,Pattison Media Ltd,Attribution-Reporting ,Attribution-Reporting ,,https://validate.audio
 9UMK7,Permutive,,Topics ,,https://permutive.app
 9A48G,Phaistos Networks S.A.,,Attribution-Reporting Protected-Audience Topics ,,https://grxchange.gr
 BF6YM,Pinterest,Attribution-Reporting ,Attribution-Reporting ,,https://pinterest.com
@@ -197,12 +240,11 @@ WFTMY,R2B2 a.s.,,Protected-Audience Topics ,,https://r2b2.io
 G575K,RESPONSE PERFORMANCE LTD,,Attribution-Reporting Topics ,,https://audiencemanager.de
 QU66H,Raptive (Formerly: Adthrive CMI Marketing Inc),,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://adthrive.com
 QFQT6,Readpeak Oy,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://readpeak.com
-EPNNE,Relay42 Netherlands B.V.,,Attribution-Reporting Protected-Audience Shared-Storage ,,https://explorefledge.com
 BZ2MB,Relevant Digital Oy,Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://relevant-digital.com
 GNR8D,Retargetly,,Protected-Audience Topics ,,https://retargetly.com
 RWVBQ,RevX,Attribution-Reporting Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage ,,https://atomex.net
 VNDFT,Ringier Axel Springer Polska,,Attribution-Reporting Protected-Audience Topics ,,https://onet.pl
-KF9RT,Rtb House,Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://creativecdn.com
+KF9RT,Rtb House,Attribution-Reporting Protected-App-Signals Protected-Audience ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://creativecdn.com
 QCNYX,SBI Holdings Inc.,,Attribution-Reporting ,,https://eloan.co.jp
 N893C,SFBX,,Shared-Storage Topics ,,https://appconsent.io
 ANNUH,SMN Corporation,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://ladsp.com
@@ -240,6 +282,7 @@ VTN97,Topebox,Protected-Audience ,,,https://topebox.com
 MDAR2,Trip.com Travel Singapore Pte. Ltd.,Attribution-Reporting ,Attribution-Reporting ,,https://trip.com
 PEDPR,TripleLift Inc.,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://3lift.com
 3TFJD,Triptease Ltd,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://triptease.io
+UGZYE,UGZYE,Attribution-Reporting ,Attribution-Reporting ,,https://getcapi.co
 JWQZ5,Undertone,,Attribution-Reporting Protected-Audience Topics ,,https://undertone.com
 7QEN3,United Marketing Technologies Inc.,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://bypass.jp
 GZRKK,United Marketing Technologies Inc.,,Protected-Audience Shared-Storage Topics ,,https://dreammail.jp
@@ -259,12 +302,14 @@ J7P9Q,Weborama SAS,Attribution-Reporting ,Attribution-Reporting Private-Aggregat
 E8EA2,Wirtualna Polska Holding,,Protected-Audience ,,https://wp.pl
 AKPK3,World History Publishing Ltd,,Protected-Audience Topics ,,https://worldhistory.org
 DF832,Wunderkind,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://bounceexchange.com
+XUZDD,XUZDD,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://privacy-sandbox-test.com
 XVU54,XVU54,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://theryn.io
+7G7M8,YOUAPPI INC.,Attribution-Reporting Protected-Audience ,,,https://youappi.com
 822UY,YRGLM Inc,,Attribution-Reporting ,,https://ebis.ne.jp
 QKTPX,Yahoo Inc,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://yahoo.com
 ARX6U,Yandex,Protected-Audience Topics ,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,com.yandex.android:mobileads,https://yandex.ru
 TMAHE,Yelp,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://yelp.com
-7UM4P,Yieldmo,Attribution-Reporting Protected-Audience ,Attribution-Reporting Protected-Audience Shared-Storage Topics ,,https://yieldmo.com
+7UM4P,YieldMo,Attribution-Reporting Protected-Audience ,Attribution-Reporting Protected-Audience Shared-Storage Topics ,,https://yieldmo.com
 Q2TVW,YipitData,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://yipitdata.com
 N2U43,ZAM Network LLC,,Attribution-Reporting Private-Aggregation Protected-Audience Shared-Storage Topics ,,https://fanbyte.com
 NCWCW,Zeta Global,,Protected-Audience Topics ,,https://disqus.com
